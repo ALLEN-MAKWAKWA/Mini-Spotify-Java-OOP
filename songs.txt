@@ -1,0 +1,15 @@
+1,Jerusalema,Master KG,House,182,false
+2,Gqom Wave,BuzzBoy,Electronic,200,false
+3,Asimbonanga,Johnny Clegg,Pop,240,false
+4,Papercut,Cassper Nyovest,Hip-Hop,210,false
+5,Soweto Blues,Hugh Masekela,Jazz,185,false
+6,Umoya,Winky D,Afrobeat,198,false
+7,Tam-Tam,Black Coffee,House,250,false
+8,Ndikhokhele,Busiswa,Gqom,175,false
+9,Soweto Sunrise,Goldfish,Electronic,230,false
+10,Phoyisa,Brenda Fassie,Pop,190,false
+11,Takuma,Heavy-K,House,205,false
+12,Jerusalema Remix,Master KG ft Nomcebo,House,195,false
+13,Spirit,Boom Shaka,Hip-Hop,180,false
+14,Shosholoza,Miriam Makeba,Folk,200,false
+15,Indeza,Sun-El Musician,House,220,false
